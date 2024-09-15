@@ -7,7 +7,7 @@
 ![VISION E INTELIGENCIA ARTIFICIAL](https://github.com/AprendeIngenia/AprendeIngenia/assets/85022752/68feb4bc-727b-42b6-932c-6929c8dea9b7)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC91YVQo46w3z1ZZJH-5tb5Q)](https://www.youtube.com/@Infor_Mayo?sub_confirmation=1)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzwHEOCbsZLjfELperJ6VeQ)](https://youtube.com/@AprendeIngenia?sub_confirmation=1)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC91YVQo46w3z1ZZJH-5tb5Q)](https://www.youtube.com/@Infor_Mayo?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/AprendeIngenia?style=social)](https://github.com/AprendeIngenia)
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
