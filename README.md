@@ -15,7 +15,7 @@
 Soy desarrollador de algoritmos de Inteligencia Artificial, Robótica y Visión por Computadora, con amplia experiencia en el desarrollo de modelos de IA y soluciones integrales relacionadas. Mi pasión se refleja en mi canal de [YouTube](https://www.youtube.com/aprendeeingenia) donde he publicado más de 200 proyectos y tutoriales basados ​​en estas áreas. Puedes encontrar todos esos proyectos y modelos aquí en mi GitHub o también en mi página de [Hugging Face.](https://huggingface.co/AprendeIngenia)
 
 
-//## Proyectos IA:
+<!--## Proyectos IA:
 <table>
 <tr>
 <td width="50%">
@@ -94,6 +94,7 @@ Soy desarrollador de algoritmos de Inteligencia Artificial, Robótica y Visión 
 </div>
 <br>
 
+-->
 ## Habilidades y lenguajes:
 
 ### Lenguajes:
