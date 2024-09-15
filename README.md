@@ -102,7 +102,7 @@ Soy desarrollador de algoritmos de Inteligencia Artificial, Robótica y Visión 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,anaconda,autocad&perline=9)](https://skillicons.dev)
 
 ### Software y herramientas:
-[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,flask,pycharm,vscode,stackoverflow&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,flask,pycharm,vscode,stackoverflow,qt&perline=9)](https://skillicons.dev)
 
 ### Otros:
 [![My Skills](https://skillicons.dev/icons?i=sketchup,pr&perline=6)](https://skillicons.dev)
