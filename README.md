@@ -3,8 +3,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=100&lines=La+tecnología+transforma+ideas+en+realidades.;Cada+línea+de+código+es+un+paso+hacia+el+futuro.;La+innovación+comienza+donde+termina+la+zona+de+confort.;El+fracaso+es+solo+un+código+de+error+en+el+camino+al+éxito.;Piensa+en+grande,+comienza+pequeño,+actúa+ahora.;La+curiosidad+es+el+motor+de+la+innovación.;No+temas+al+cambio,+abraza+la+evolución."></a>
 </p>
-
+<!--
 ![VISION E INTELIGENCIA ARTIFICIAL](https://github.com/AprendeIngenia/AprendeIngenia/assets/85022752/68feb4bc-727b-42b6-932c-6929c8dea9b7)
+-->
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC91YVQo46w3z1ZZJH-5tb5Q)](https://www.youtube.com/@Infor_Mayo?sub_confirmation=1)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC91YVQo46w3z1ZZJH-5tb5Q)](https://www.youtube.com/@Infor_Mayo?sub_confirmation=1)
