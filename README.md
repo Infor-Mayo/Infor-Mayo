@@ -96,16 +96,19 @@ Soy desarrollador de algoritmos de Inteligencia Artificial, Robótica y Visión 
 ## Habilidades y lenguajes:
 
 ### Lenguajes:
-[![My Skills](https://skillicons.dev/icons?i=py,arduino,matlab,cpp&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,bash,cpp&perline=5)](https://skillicons.dev)
 
 ### Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,anaconda,autocad&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,anaconda&perline=5)](https://skillicons.dev)
 
 ### Software y herramientas:
-[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,flask,pycharm,vscode,stackoverflow,qt&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,flask,pycharm,vscode,stackoverflow,qt&perline=5)](https://skillicons.dev)
+
+### Distro:
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,debian,windows&perline=5)](https://skillicons.dev)
 
 ### Otros:
-[![My Skills](https://skillicons.dev/icons?i=sketchup,pr&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sublime,blender,pr&perline=5)](https://skillicons.dev)
 
 ## Contacto:
 <a href="mailto:aprende.ingenia@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aprende.ingenia@gmail.com-blue?style=flat-square&logo=gmail"></a>
