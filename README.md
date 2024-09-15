@@ -8,7 +8,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC91YVQo46w3z1ZZJH-5tb5Q)](https://www.youtube.com/@Infor_Mayo?sub_confirmation=1)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC91YVQo46w3z1ZZJH-5tb5Q)](https://www.youtube.com/@Infor_Mayo?sub_confirmation=1)
-[![GitHub followers](https://img.shields.io/github/followers/AprendeIngenia?style=social)](https://github.com/AprendeIngenia)
+[![GitHub followers](https://img.shields.io/github/followers/Infor-Mayo?style=social)](https://github.com/Infor-Mayo)
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
