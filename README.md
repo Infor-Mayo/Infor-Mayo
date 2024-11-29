@@ -11,7 +11,7 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC91YVQo46w3z1ZZJH-5tb5Q)](https://www.youtube.com/@Infor_Mayo?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/Infor-Mayo?style=social)](https://github.com/Infor-Mayo)
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
+## <picture><img src = "https://media.giphy.com/media/JdQFsdoJBcHaPOANdK/giphy.gif" width = 50px></picture> **Sobre mi**
 
 Soy Mario Artola, creador del canal de YouTube [Infor Mayo](https://www.youtube.com/@Infor_Mayo), donde comparto mi pasión por la tecnología y la programación. A través de tutoriales en lenguajes como Python, Java y C++, busco hacer que el aprendizaje sea accesible y entretenido para todos, desde principiantes hasta expertos. Mi objetivo es ayudar a mis seguidores a mejorar sus habilidades informáticas y alcanzar sus metas tecnológicas, creando una comunidad activa que se apoya mutuamente. Cada video es una oportunidad para inspirar a otros a explorar el mundo de la programación y descubrir su potencial. Estoy comprometido a seguir creciendo y aprendiendo junto a mi comunidad, porque la educación es un viaje continuo.
 
