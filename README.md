@@ -13,8 +13,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
-Soy desarrollador de algoritmos de Inteligencia Artificial, Robótica y Visión por Computadora, con amplia experiencia en el desarrollo de modelos de IA y soluciones integrales relacionadas. Mi pasión se refleja en mi canal de [YouTube](https://www.youtube.com/aprendeeingenia) donde he publicado más de 200 proyectos y tutoriales basados ​​en estas áreas. Puedes encontrar todos esos proyectos y modelos aquí en mi GitHub o también en mi página de [Hugging Face.](https://huggingface.co/AprendeIngenia)
-
+Soy Mario Artola, creador del canal de YouTube [Infor Mayo](https://www.youtube.com/@Infor_Mayo), donde comparto mi pasión por la tecnología y la programación. A través de tutoriales en lenguajes como Python, Java y C++, busco hacer que el aprendizaje sea accesible y entretenido para todos, desde principiantes hasta expertos. Mi objetivo es ayudar a mis seguidores a mejorar sus habilidades informáticas y alcanzar sus metas tecnológicas, creando una comunidad activa que se apoya mutuamente. Cada video es una oportunidad para inspirar a otros a explorar el mundo de la programación y descubrir su potencial. Estoy comprometido a seguir creciendo y aprendiendo junto a mi comunidad, porque la educación es un viaje continuo.
 
 <!--## Proyectos IA:
 <table>
@@ -121,7 +120,7 @@ Soy desarrollador de algoritmos de Inteligencia Artificial, Robótica y Visión 
 
 <p align="center">
   <a href="https://github.com/AprendeIngenia">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AprendeIngenia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AprendeIngenia&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Infor-Mayo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Infor-Mayo&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
